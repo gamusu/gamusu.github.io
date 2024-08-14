@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p>415A Robertson Hall</p>
+    <p>Princeton University</p>
+    <p>Princeton, NJ, 08544</p>
+    <p> <a href="mailto:gamusu@princeton.edu">gamusu@princeton.edu</a></p>
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website :wave: I am a Ph.D. candidate in the [Department of Politics](https://politics.princeton.edu) at Princeton University. I'm a comparativist with a regional focus on mainland Southeast Asia, and Vietnam in particular. I study authoritarianism, state-building, ethnic politics, and the political economy of development. My dissertation, "The Dictator's Gambit: Causes and Consequences of Territorial Autonomy Arangements in Authoritarian Regimes", documents the rise and consequences of ethnic autonomy arangements in 20th century as part of the modern autocratic state-building process. My dissertation committee members are: [Mark R. Beissinger](https://mbeissinger.scholar.princeton.edu), [Atul Kohli](https://kohli.scholar.princeton.edu), and [Rory Truex](https://www.rorytruex.com).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addition to my main research agenda, I am also interested in the politics, economics, and legal issues of higher education. I consider myself a service oriented academic with a strong interest in higher education administration and student success. I currently sit on the Board of Trustees at [Carleton College](https://www.carleton.edu) and serve as a [Graduate Financial Wellness Fellow](https://gradschool.princeton.edu/financial-support/understand-your-finances/financial-wellness-fellows-program).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to starting my Ph.D., I completed my bachelors degree with honors at Carleton College where I majored in Political Science/International Relations and a minor in Political Economy. I have also held research positions at [The World Bank (Development Finance unit)](https://www.worldbank.org/en/about/unit/dfi), [Yale University Department of Anthropology](https://anthropology.yale.edu), and [Michigan State University Department of Political Science](https://polisci.msu.edu).
+
+Outside of my academic interests, I enjoy traveling, making music, and playing (and watching) tennis :tennis:
+
+Thanks for stopping by!
