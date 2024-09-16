@@ -25,6 +25,7 @@ nav_order: 6
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate Chinese politics survey course taught by <a href="https://www.rorytruex.com">Rory Truex</a>.</li>
       <li class="list-group-item">— <a href="/assets/pdf/teaching/pol362.pdf">course syllabus</a></li>
+      <li class="list-group-item">— <a href="https://calendly.com/gamusu/office-hours">office hours</a></li>
     
     </ul>
   </div>
@@ -85,7 +86,7 @@ nav_order: 6
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Undergraduate survey course in authoritarian politics taught by <a href="https://www.sowi.uni-mannheim.de/ratkovic/chair/">Xu Xu</a>.</li>
+      <li class="list-group-item">Undergraduate survey course in authoritarian politics taught by <a href="https://xu-xu.net">Xu Xu</a>.</li>
       <li class="list-group-item">— <a href="/assets/pdf/teaching/pol376.pdf">course syllabus</a></li>
     </ul>
   </div>
