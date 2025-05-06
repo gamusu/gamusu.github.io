@@ -2,12 +2,58 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Information and syllabi for the courses I have instructed (TA) can be found below. Course evaluations are readily available upon request.
+description: Information and syllabi for the courses I have instructed can be found below. Course evaluations are readily available upon request.
 nav: true
 nav_order: 6
 ---
 
+<h3 class="mt-4">haverford college</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Comparative Politics</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            POL 364
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2025: Instructor of Record</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Undergraduate introductory comparative politics course</a>.</li>
+      <li class="list-group-item">— <a href="/assets/pdf/teaching/pols131.pdf">course syllabus</a></li>
+    
+    </ul>
+  </div>
+</div>
+
+
 <h3 class="mt-4">princeton university</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Politics of the Middle East</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            POL 364
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2025: Head Teaching Assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Undergraduate Middle Eastern politics survey course taught by <a href="https://www.elizabethnugent.com">Elizabeth Nugent</a>.</li>
+      <li class="list-group-item">— <a href="/assets/pdf/teaching/pol364.pdf">course syllabus</a></li>
+    
+    </ul>
+  </div>
+</div>
+
 
 <div class="card mt-3">
   <div class="p-3">
@@ -25,7 +71,6 @@ nav_order: 6
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate Chinese politics survey course taught by <a href="https://www.rorytruex.com">Rory Truex</a>.</li>
       <li class="list-group-item">— <a href="/assets/pdf/teaching/pol362.pdf">course syllabus</a></li>
-      <li class="list-group-item">— <a href="https://calendly.com/gamusu/office-hours">office hours</a></li>
     
     </ul>
   </div>
@@ -67,7 +112,7 @@ nav_order: 6
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2022: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate methods course covering causal inference, statistical theory, and estimation, taught by <a href="https://www.sowi.uni-mannheim.de/ratkovic/chair/">Marc Ratkovic</a>.</li>
-      <li class="list-group-item">— <a href="/assets/pdf/teaching/pol345.pdf">course syllabus</a></li>
+      <li class="list-group-item">— <a href="/assets/pdf/teaching/Pol345.pdf">course syllabus</a></li>
     </ul>
   </div>
 </div>
