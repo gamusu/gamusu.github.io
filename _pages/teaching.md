@@ -30,7 +30,6 @@ nav_order: 6
   </div>
 </div>
 
-
 <h3 class="mt-4">princeton university</h3>
 
 <div class="card mt-3">
