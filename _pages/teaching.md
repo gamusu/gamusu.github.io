@@ -17,13 +17,13 @@ nav_order: 6
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            POL 364
+            POLS 131
         </span>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2025: Instructor of Record</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Undergraduate introductory comparative politics course</a>.</li>
+      <li class="list-group-item">Undergraduate introductory comparative politics course.</li>
       <li class="list-group-item">— <a href="/assets/pdf/teaching/pols131.pdf">course syllabus</a></li>
     
     </ul>
@@ -39,7 +39,7 @@ nav_order: 6
         <h5 class="font-weight-bold">Politics of the Middle East</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">
             POL 364
         </span>
       </div>
@@ -61,7 +61,7 @@ nav_order: 6
         <h5 class="font-weight-bold">Chinese Politics</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">
             POL 362
         </span>
       </div>
@@ -82,7 +82,7 @@ nav_order: 6
         <h5 class="font-weight-bold">The Politics of Development</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">
             POL 351
         </span>
       </div>
@@ -103,7 +103,7 @@ nav_order: 6
         <h5 class="font-weight-bold">Introduction to Quantitative Social Science</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">
             POL 345
         </span>
       </div>
@@ -123,7 +123,7 @@ nav_order: 6
         <h5 class="font-weight-bold">Dictators and their Demise</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">
             POL 376
         </span>
       </div>
@@ -143,7 +143,7 @@ nav_order: 6
         <h5 class="font-weight-bold">Experimental Political Science</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold warning-color-dark text-uppercase align-middle">
             POL 505
         </span>
       </div>
